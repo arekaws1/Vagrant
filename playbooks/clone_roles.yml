@@ -1,6 +1,6 @@
 ---
 - name:
-  hosts: alla
+  hosts: all
   become: true
   vars:
     git_repository: "https://github.com/arekaws1/Ansible_roles.git"
